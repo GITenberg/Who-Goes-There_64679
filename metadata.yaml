@@ -1,11 +1,16 @@
 _repo: Who-Goes-There_64679
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64679-h/images/cover.jpg
 creator:
   author:
     agent_name: Davis, Charles H.
     gutenberg_agent_id: '53006'
     url: http://www.gutenberg.org/2009/agents/53006
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64679#Who-Goes-There
 gutenberg_issued: '2021-03-03'
 gutenberg_type: Text
 identifiers:
